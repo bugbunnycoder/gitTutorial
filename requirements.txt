@@ -3,3 +3,5 @@ Requirements list
 1. Post 
 2. Chat
 3. Likes 
+4. Groups
+5. Pages
