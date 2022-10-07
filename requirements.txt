@@ -5,3 +5,5 @@ Requirements list
 3. Likes 
 4. Groups
 5. Pages
+6. Add audio calls
+7. Add audio calls
