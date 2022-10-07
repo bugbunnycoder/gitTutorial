@@ -6,4 +6,4 @@ Requirements list
 4. Groups
 5. Pages
 6. Add audio calls
-7. Add audio calls
+7. Add video calls
